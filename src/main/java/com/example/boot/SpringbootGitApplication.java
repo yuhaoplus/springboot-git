@@ -9,6 +9,7 @@ public class SpringbootGitApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootGitApplication.class, args);
         System.out.println("hello,git");
+        System.out.println("hot-fix");
     }
 
 }
